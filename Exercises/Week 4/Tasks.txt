@@ -1,0 +1,13 @@
+- Get familiar with the typical training routing of a classifier 
+	https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
+
+- Create an account on huggingFace
+	https://huggingface.co/welcome
+
+- Create an account on wandb
+	https://wandb.ai/
+
+- Get familiar with Lightning studio. Open your account, launch a studio and start coding
+
+- Reimplement the classifier using Pytorch lightning and log the results to wandb
+	https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
